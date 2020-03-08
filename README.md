@@ -1,1 +1,5 @@
-# react-props
+# First playground
+
+```bash
+yarn start
+```
